@@ -255,7 +255,6 @@ export default {
   }
   input:focus{
     background-color: white;
-    opacity: 0.7;
   }
   input::placeholder{
     color: white;
