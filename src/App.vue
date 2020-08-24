@@ -259,6 +259,7 @@ export default {
   }
   input::placeholder{
     color: white;
+    font-size: 10px;
   }
   .cold{
     background-image: linear-gradient(#52a4db, #71b9e1 ) ;
