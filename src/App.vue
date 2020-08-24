@@ -25,7 +25,7 @@
         </div>
         <div class="timezone-box">
           
-        {{dateBuilder()}}
+        It is {{dateBuilder()}} local time.
 
         </div>
         <div class="weather-details-container">
