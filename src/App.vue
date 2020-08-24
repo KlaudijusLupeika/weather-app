@@ -96,7 +96,7 @@ export default {
   data () {
     return {
       api_key: '3c56fc758cc4085c0a9f6ab76b768ec8',
-      url_base: 'http://api.openweathermap.org/data/2.5/',
+      url_base: 'https://api.openweathermap.org/data/2.5/',
       query: '',
       x: '',
       weather: {},
