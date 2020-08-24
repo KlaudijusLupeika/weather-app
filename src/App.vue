@@ -158,7 +158,7 @@ export default {
 
   }
   .weather-container{
-    background-image: linear-gradient(#841062, #fa4f39 ) ;
+    background-color:#fa4f39;
     width: 100%;
     height: 100%;
     box-shadow: 0 0 10px #000;
