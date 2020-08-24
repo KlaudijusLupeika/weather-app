@@ -290,6 +290,11 @@ export default {
   }
   .widget-value{
     font-size: 5vw;
+    color: white;
+    font-weight: 300;
+  }
+  .weather-widget{
+    margin-bottom: 10px;
   }
 }
 
