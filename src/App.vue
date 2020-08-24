@@ -173,7 +173,7 @@ export default {
 
   }
   .location-box{
-    font-size: 4rem;
+    font-size: 3rem;
     display: block;
     margin-top: 10px;
 
