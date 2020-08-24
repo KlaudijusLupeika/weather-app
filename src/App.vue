@@ -148,7 +148,7 @@ export default {
   body{
     background-image: url('./assets/bg.jpg');
     background-position: bottom;
-    background-size: initial;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
