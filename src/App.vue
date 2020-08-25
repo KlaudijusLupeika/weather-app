@@ -136,8 +136,8 @@ export default {
 <style>
 
   * {
-  font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  font-weight: 100;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-weight: 200;
   letter-spacing: 1px;
     margin: 0;
     padding: 0;
@@ -176,6 +176,7 @@ export default {
     font-size: 3rem;
     display: block;
     margin-top: 10px;
+    font-weight: 400;
 
   }
   .timezone-box{
@@ -194,6 +195,7 @@ export default {
   }
   .weather-temp{
     font-size: 10rem;
+    font-weight: 200;
     margin: 0 0 0 1rem;
     display: inline-block;
   }
@@ -241,6 +243,7 @@ export default {
   }
   .widget-value{
     font-size: 2rem;
+    font-weight: 350;
   }
   input{
     color: black;
@@ -290,7 +293,7 @@ export default {
   .widget-value{
     font-size: 5vw;
     color: white;
-    font-weight: 300;
+    font-weight: 350;
   }
   .weather-widget{
     margin-bottom: 10px;
